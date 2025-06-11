@@ -1,0 +1,48 @@
+[
+  {
+    "username": "aga123",
+    "password": "$2b$10$n73VGsKKDJldnNz.HMU7OOR7kU/fuvSHbS3s9qAcRmwL0kt1g9d7.",
+    "position": "manager",
+    "name": "agathian",
+    "jerseyno": 100,
+    "playerrole": {
+      "clubmember": 999,
+      "manager": 333
+    },
+    "playerrefreshtoken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFnYTEyMyIsImlhdCI6MTc0OTY1NDg0OSwiZXhwIjoxNzQ5NzQxMjQ5fQ.SKgTXks8oUKqS5gy2Em_WojnZmd4suiL4stO0DOVvoY"
+  },
+  {
+    "username": "hansiflick223",
+    "password": "$2b$10$9ZC3Qo96oT1Eh4EtCBe.gO./0ORtVF6PicxLAsAY8bIg8k4hXv0w6",
+    "position": "coach",
+    "name": "hansi flick",
+    "jerseyno": 99,
+    "playerrole": {
+      "clubmember": 999,
+      "coach": 222
+    },
+    "playerrefreshtoken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhhbnNpZmxpY2syMjMiLCJpYXQiOjE3NDk2NjkxMDIsImV4cCI6MTc0OTc1NTUwMn0.SDRSsfsPW-PaVxyVoqzE7zGLWvvIG6XUvmDbAYAb9y0"
+  },
+  {
+    "username": "lamineyamal111",
+    "password": "barca2005",
+    "name": "lamine yamal",
+    "position": "forward",
+    "jerseyno": 19,
+    "playerrole": {
+      "clubmember": 999,
+      "player": 111
+    }
+  },
+  {
+    "username": "pedri111",
+    "password": "barca2005",
+    "name": "pedri",
+    "position": "midfielder",
+    "jerseyno": 8,
+    "playerrole": {
+      "clubmember": 999,
+      "player": 111
+    }
+  }
+]
